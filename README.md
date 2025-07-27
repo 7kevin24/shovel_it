@@ -1,4 +1,4 @@
-﻿# Shovel It! | 铲了吗
+﻿# Shovel It! | 铲了么
 
 [English](#english) | [中文](./README_zh.md)
 
