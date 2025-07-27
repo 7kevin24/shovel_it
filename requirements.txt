@@ -1,0 +1,32 @@
+﻿# Robot Control System Requirements
+
+# Core ML and Robotics
+torch>=2.0.0
+numpy>=1.21.0
+lerobot
+
+# Simulation and Visualization  
+pybullet>=3.2.0
+meshcat>=0.3.0
+
+# Audio Processing
+sounddevice>=0.4.0
+
+# Networking and Communication
+websocket-client>=1.0.0
+requests>=2.28.0
+
+# XR/VR Control (if available)
+# xrobotoolkit_sdk  # Custom SDK - install separately
+
+# Standard Library (usually included with Python)
+# threading
+# json
+# os
+# time
+# uuid
+# re
+# signal
+# sys
+# shutil
+# base64
